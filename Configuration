@@ -1,0 +1,9 @@
+Edit config.py to customize:
+
+Model type (gpt-4, gpt-3.5-turbo)
+Temperature (creativity level)
+Max tokens
+System prompts
+API Endpoints
+POST /chat
+Send a message and get a response.
