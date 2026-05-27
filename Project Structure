@@ -1,0 +1,8 @@
+.
+├── main.py              # CLI entry point
+├── api.py               # REST API server
+├── chatbot.py           # Core chatbot logic
+├── config.py            # Configuration management
+├── requirements.txt     # Python dependencies
+├── .env.example         # Environment variables template
+└── README.md           # This file
