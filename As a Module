@@ -1,0 +1,5 @@
+from chatbot import ChatbotAssistant
+
+bot = ChatbotAssistant()
+response = bot.chat("Hello, how are you?")
+print(response)
